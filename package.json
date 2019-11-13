@@ -1,0 +1,35 @@
+{
+  "name": "merrill-node-api",
+  "version": "1.0.0",
+  "description": "Merrill API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@hapi/boom": "^7.4.11",
+    "@hapi/hapi": "18.x.x",
+    "@hapi/inert": "5.x.x",
+    "@hapi/joi": "15.x.x",
+    "@hapi/vision": "5.x.x",
+    "@hapi/wreck": "^15.1.0",
+    "async": "3.x.x",
+    "ectoken": "1.0.0",
+    "get-env": "0.x.x",
+    "hapi-auth-bearer-token": "6.x.x",
+    "hapi-swagger": "^10.2.0",
+    "lodash": "4.x.x",
+    "querystring": "0.x.x",
+    "uuid": "^3.3.3",
+    "xmljson": "^0.2.0"
+  },
+  "devDependencies": {
+    "cross-env": "^6.0.3",
+    "eslint": "5.x.x",
+    "eslint-config-google": "0.x.x",
+    "jest": "24.x.x",
+    "jest-runner-eslint": "0.x.x",
+    "object-hash": "^2.0.0"
+  }
+}
