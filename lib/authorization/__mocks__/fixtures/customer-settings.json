@@ -1,0 +1,38 @@
+[
+    {
+      "id": "59df988e038bdd0001cbc9e0",
+      "name": "pricing",
+      "value": "Tiered Pricing",
+      "isVisible": false
+    },
+    {
+      "id": "59df98b1038bdd0001cbc9e1",
+      "name": "customer",
+      "value": "Klic",
+      "isVisible": false
+    },
+    {
+      "id": "59dfaaa1038bdd0001cbc9e4",
+      "name": "canManageStores",
+      "value": "true",
+      "isVisible": true
+    },
+    {
+      "id": "5c9b7425bfa68800018b235a",
+      "name": "calculateFreight",
+      "value": "false",
+      "isVisible": false
+    },
+    {
+      "id": "59dfaaa1038bdd0001cbc9e5",
+      "name": "someSettingThatIsFalse",
+      "value": "false",
+      "isVisible": true
+    },
+    {
+      "id": "59dfaaa1038bdd0001cbc9e6",
+      "name": "someSettingThatIsAString",
+      "value": "myVal",
+      "isVisible": true
+    }
+  ]

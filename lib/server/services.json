@@ -6,12 +6,6 @@
     "useRouteVersioning": true
   },
   "test": {
-    "applicationInsights": {
-      "key": "eeefb0d5-6f84-46ec-85de-f5fbfcc01c8a"
-    },
-    "useRouteVersioning": true,
-    "graylog": {
-      "url": "http://tdgraylog229.centralus.cloudapp.azure.com:12201/gelf"
-    }
+    "useRouteVersioning": true
   }
 }

@@ -1,0 +1,41 @@
+{
+  "name":"Automation Use DO NOT Delete",
+  "taylorCustomerId":"7033694",
+  "orderConditions":{
+     "total":"0",
+     "submittedBy":{
+        "stores":[
+           "59bbea03f7b9b60001e58e1f"
+        ]
+     }
+  },
+  "flowType":"parallel",
+  "requiredActions":[
+     {
+        "id":"5d0add0a67a2550001c1aa01",
+        "type":"user",
+        "automaticAction":{
+
+        },
+        "approverIds":[
+           "3f7ab5b0-a0ec-4d3a-96e4-11fa449053dd",
+           "af137264-2bbf-4dc2-a77b-5f1a05b0bd44",
+           "bcf584b4-f48d-46a9-badd-75bef430c304",
+           "e689073a-443e-43c0-ba3c-f10cb873b0f4",
+           "010d4f7c-8cf5-4759-a7ca-d57b0b5514eb",
+           "1865e241-bd10-4ba2-85fe-d41187d2378e",
+           "5e2e87b4-fd3b-4f54-9b51-2835c787b42a",
+           "ec0bdaab-deb0-4aae-967e-a076815a84ad",
+           "9b9559c8-06c4-4631-b5cc-f76027a6e22d"
+        ],
+        "startTime":"0001-01-01T00:00:00"
+     }
+  ],
+  "isActive":false,
+  "id":"5d0add0a67a2550001c1aa00",
+  "source":"Aggregation",
+  "docType":"Workflows.Repository.Entities.Basic.WorkflowBasic",
+  "partitionKey":"Aggregation_7033694",
+  "createdOn":"2019-06-20T01:10:34Z",
+  "modifiedOn":"0001-01-01T00:00:00Z"
+}

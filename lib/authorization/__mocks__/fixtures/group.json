@@ -1,0 +1,39 @@
+{
+  "id": "5b0ee2a6a420220001704e06",
+  "name": "04 - Automation groupA",
+  "description": "group for automation users",
+  "customerId": "7033694",
+  "masterTaylorCustomerId": "7033694",
+  "isDefault": false,
+  "updatedDate": "2018-12-28T07:35:16.388Z",
+  "users": [
+    "2e5134e2-ea0a-4dfb-bb6b-e3296fa1edac",
+    "e1da4ec0-07ce-49e5-8658-9922e1bc5213"
+  ],
+  "deliveryOptions": [
+    {
+      "deliveryOptionId": "000000001",
+      "groupId": "5b0ee2a6a420220001704e06"
+    },
+    {
+      "deliveryOptionId": "000000024",
+      "groupId": "5b0ee2a6a420220001704e06"
+    }
+  ],
+  "shippingAddresses": [
+    {
+      "shippingAddressId": "boss-001 /",
+      "groupId": "5b0ee2a6a420220001704e06"
+    }
+  ],
+  "costCenters": [
+    {
+      "costCenterId": "CHARGE TO TEST",
+      "groupId": "5b0ee2a6a420220001704e06"
+    },
+    {
+      "costCenterId": "001 /",
+      "groupId": "5b0ee2a6a420220001704e06"
+    }
+  ]
+}

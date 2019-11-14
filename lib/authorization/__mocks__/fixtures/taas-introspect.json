@@ -1,0 +1,19 @@
+{
+  "iss":"https://qafederation.taylorcorp.com",
+  "nbf":1560521786,
+  "exp":1560525386,
+  "aud":[
+     "https://qafederation.taylorcorp.com/resources",
+     "qabossapi",
+     "qaklicapi",
+     "qataxapi",
+     "qafreightapi"
+  ],
+  "client_id":"test.klicmarketplace",
+  "auth_time":1560298495,
+  "idp":"local",
+  "sub":"2e18bb9f-3470-4cf7-a544-e962b581d04e",
+  "amr":"pwd",
+  "active":true,
+  "scope":"tc_klic_api"
+}

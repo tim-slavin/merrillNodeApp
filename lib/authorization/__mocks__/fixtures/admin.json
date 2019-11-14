@@ -1,0 +1,17 @@
+{
+    "firstName":"TestFirstName",
+    "lastName":"TestLastName",
+    "email":"test-user@taylordigital.io",
+    "emailVerified":false,
+    "userId":"8b1108bf-9502-4968-9453-c7177533ce02",
+    "taylorCustomerId":["7033694", "1000"],
+    "allowSecondaries":true,
+    "roles":["admin"],
+    "status":"active",
+    "id":"59a6cd64a2758a0001e9c05f",
+    "source":"Aggregation",
+    "docType":"Users.Repository.Entities.User",
+    "partitionKey":"Aggregation_2e",
+    "createdOn":"2019-03-15T16:21:53.068Z",
+    "modifiedOn":"2019-03-15T16:21:53.068Z"
+  }

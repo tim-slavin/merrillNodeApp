@@ -1,0 +1,22 @@
+[
+    {
+       "updated":"2019-06-13T15:45:09.499Z",
+       "storeId":"5c6386f33408450001f0b3d5",
+       "items":[
+          {
+             "id":"5d026f850dc5f4000122e548",
+             "productId":"5baa738592f4e200015a130d",
+             "quantity":10,
+             "added":"2019-06-13T15:45:09.441Z",
+             "updated":"2019-06-13T15:45:09.441Z"
+          }
+       ],
+       "id":"5d0162830dc5f4000122e3d0",
+       "cartId": "cart-1",
+       "source":"Aggregation",
+       "docType":"Carts.Repository.Entities.Cart.Cart",
+       "partitionKey":"Aggregation_1000",
+       "createdOn":"2019-06-12T20:37:23Z",
+       "modifiedOn":"0001-01-01T00:00:00Z"
+    }
+  ]

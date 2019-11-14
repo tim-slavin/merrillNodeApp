@@ -1,0 +1,23 @@
+{
+    "id": "5c0739b2917c040001145e3b",
+    "parentId": "5d605d020aa20100015fd57b",
+    "name": "Test Category Name",
+    "supercategory": {
+        "id": "5d605d020aa20100015fd57b",
+        "name": "Test Category Parent",
+        "subcategories": [
+            {
+              "id": "5c2398b90f64eb00015e9f44",
+              "name": "Test Subcategory 1",
+              "parentId": "5d605d020aa20100015fd57b",
+              "subcategories": [
+                {
+                  "id": "5c239ef7caa4af0001fbd19f",
+                  "name": "Test Subcategory 2",
+                  "parentId": "5c2398b90f64eb00015e9f44"
+                }
+            ]
+            }
+        ]
+    }
+}

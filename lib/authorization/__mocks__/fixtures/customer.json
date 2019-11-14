@@ -1,0 +1,12 @@
+{
+  "taylorCustomerId": "7033694",
+  "masterTaylorCustomerId": "7033694",
+  "customerName": "Oklahoma Gas and Electric",
+  "defaultStore": "59bbea03f7b9b60001e58e1f",
+  "id": "59d38c133d98b70001d3a44c",
+  "source": "Aggregation",
+  "docType": "Customers.Repository.Entities.Customer",
+  "partitionKey": "Aggregation_70",
+  "createdOn": "2019-02-27T12:08:27.897Z",
+  "modifiedOn": "2019-02-27T12:08:27.897Z"
+}
