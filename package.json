@@ -12,7 +12,7 @@
     "@hapi/good": "^8.2.3",
     "@hapi/good-console": "8.x.x",
     "@hapi/good-squeeze": "5.x.x",
-    "@hapi/hapi": "18.x.x",
+    "@hapi/hapi": "19.x.x",
     "@hapi/inert": "5.x.x",
     "@hapi/joi": "15.x.x",
     "@hapi/vision": "5.x.x",
